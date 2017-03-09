@@ -1,0 +1,156 @@
+
+.Logo-Bottom {
+    background: url("/img/Logo-Bottom.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+    display: inline-table;
+    margin-right: 5px;
+}
+.Logo-Bottom-McAfee {
+    background-position: -10px -10px;
+    height: 40px;
+    width: 108px;
+}
+.Logo-Bottom-McAfee:hover {
+    background-position: -10px -60px;
+    height: 40px;
+    width: 108px;
+}
+.Logo-Bottom-godaddyssl {
+    background-position: -10px -110px;
+    height: 40px;
+    width: 195px;
+}
+.Logo-Bottom-godaddyssl:hover {
+    background-position: -10px -160px;
+    height: 40px;
+    width: 195px;
+}
+.Logo-Bottom-mastercard {
+    background-position: -128px -10px;
+    height: 40px;
+    width: 67px;
+}
+.Logo-Bottom-mastercard:hover {
+    background-position: -128px -60px;
+    height: 40px;
+    width: 67px;
+}
+.Logo-Bottom-maestro {
+    background-position: -10px -210px;
+    height: 40px;
+    width: 67px;
+}
+.Logo-Bottom-maestro:hover {
+    background-position: -10px -260px;
+    height: 40px;
+    width: 67px;
+}
+.Logo-Bottom-visadebit {
+    background-position: -87px -210px;
+    height: 40px;
+    width: 64px;
+}
+.Logo-Bottom-visadebit:hover {
+    background-position: -87px -260px;
+    height: 40px;
+    width: 64px;
+}
+.Logo-Bottom-thegoodwebguide {
+    background-position: -10px -310px;
+    height: 40px;
+    width: 132px;
+}
+.Logo-Bottom-thegoodwebguide:hover {
+    background-position: -10px -360px;
+    height: 40px;
+    width: 132px;
+}
+.Logo-Bottom-Asta {
+    background-position: -10px -410px;
+    height: 40px;
+    width: 75px;
+}
+.Logo-Bottom-Asta:hover {
+    background-position: -10px -460px;
+    height: 40px;
+    width: 75px;
+}
+.Logo-Bottom-Abtoi {
+    background-position: -95px -410px;
+    height: 40px;
+    width: 80px;
+}
+.Logo-Bottom-Abtoi:hover {
+    background-position: -95px -460px;
+    height: 40px;
+    width: 80px;
+}
+.Logo-Bottom-visa {
+    background-position: -10px -510px;
+    height: 21px;
+    width: 68px;
+}
+.Logo-Bottom-visa:hover {
+    background-position: -10px -541px;
+    height: 21px;
+    width: 68px;
+}
+.Logo-Bottom-Abtoi img {
+    height: 40px;
+    width: 80px;
+}
+.Logo-Bottom-Asta img {
+    height: 40px;
+    width: 75px;
+}
+.Logo-Bottom-thegoodwebguide img {
+    height: 40px;
+    width: 132px;
+}
+.Logo-Bottom-McAfee img {
+    height: 40px;
+    width: 108px;
+}
+.Logo-Bottom-godaddyssl img {
+    height: 40px;
+    width: 195px;
+}
+
+.Logo-Bottom-ItalianChamber { 
+	background-position:-88px -510px; 
+	width:39px; 
+	height:40px; 
+}
+
+.Logo-Bottom-ItalianChamber:hover { 
+	width:39px; 
+	height:40px; 
+	background-position:-137px -510px; 
+}
+
+.Logo-Bottom-ItalianChamber img {
+   width:39px; 
+	height:40px; 
+}
+
+.Logo-Bottom-New{ background:url("/img/Logo-Bottom-New.png") top left no-repeat;display: inline-table;margin-right: 5px;}
+.Logo-Bottom-hypo{ width:160px; height:32px; background-position:-10px -194px; }
+.Logo-Bottom-hypo:hover{ background-position:-10px -236px; }
+.Logo-Bottom-HSBC{ width:138px; height:25px; background-position:-10px -278px; }
+.Logo-Bottom-HSBC:hover{ background-position:-10px -313px; }
+.Logo-Bottom-certweb-nl{ width:128px; height:40px; background-position:-10px -10px; }
+.Logo-Bottom-certweb-nl:hover{ width:128px; height:40px; background-position:-10px -60px; }
+.Logo-Bottom-certweb-nl img {width:128px; height:40px;} 
+.Logo-Bottom-ing{ width:130px; height:32px; background-position:-10px -110px; }
+.Logo-Bottom-ing:hover{ width:130px; height:32px; background-position:-10px -152px; }
+.Logo-Bottom-ideal{ width:46px; height:40px; background-position:-10px -348px; }
+.Logo-Bottom-ideal:hover{ width:46px; height:40px; background-position:-66px -348px; } 
+
+.Logo-Bottom-de {
+    background: url("/img/Logo-Bottom-de.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+    display: inline-table;
+    margin-right: 5px;
+}
+
+.Logo-Bottom-certweb-de{ width:130px; height:53px; background-position:0px -57px; }
+.Logo-Bottom-certweb-de:hover{ width:130px; height:53px; background-position:0px 0px; }
+.Logo-Bottom-certweb-de img {width:130px; height:53px;} 
